@@ -169,7 +169,7 @@ const FooterSection = () => {
         </div>
         <div className="w-full h-1 border-t-2 border-slate-300" />
         <span className="px-2 text-center ">
-          Copyright ©️ 2023 Xfosoft IT Solutions - All Rights Reserved
+          Copyright ©️ 2024 OutlieEdge Inc. - All Rights Reserved
         </span>
       </div>
       <ScrollToTop />

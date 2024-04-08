@@ -318,11 +318,11 @@ export const data = {
   ],
 
   footer: {
-    address1: "26 Broadway, Suite 934, New York, New York 10004, United States",
+    address1: "139 Church St, Unit 1, Lodi, NJ 07644, United States",
     address2: "B-25, Mannan Plaza, 4th Floor Khilkhet, Dhaka-1229, Bangladesh",
-    contact_number: "(212) 884-8837",
-    email1: "HR@xfosoft.com",
-    email2: "connect@Xfosoft.tech",
+    contact_number: "(201) 665-9364",
+    email1: "hr@outlineedge.com",
+    email2: "connect@outlineedge.com",
     facebook: "https://www.facebook.com",
     pinterest: "https://www.pinterest.com",
     linkedin: "https://www.linkedin.com",
@@ -416,13 +416,13 @@ export const data = {
     {
       title: "Our Vision",
       description:
-        "Our vision at Xfosoft is to be a global leader at the intersection of technology and talent. We aim to revolutionize industries through innovative software and web development solutions while shaping careers and fostering a vibrant, inclusive, and dynamic community of professionals. Our vision is to continually push boundaries, exceed expectations, and be the driving force behind transformative change in the tech and staffing landscape.",
+        "Our vision at OutlineEdge is to be a global leader at the intersection of technology and talent. We aim to revolutionize industries through innovative software and web development solutions while shaping careers and fostering a vibrant, inclusive, and dynamic community of professionals. Our vision is to continually push boundaries, exceed expectations, and be the driving force behind transformative change in the tech and staffing landscape.",
       icon: images.goal,
     },
   ],
 
   whoWeAre: {
-    description: `At Xfosoft IT Solutions Inc, we’re the champions of charting our course. We are a unique development company seamlessly merging creativity with feasibility. While we offer competitively priced development projects, we never compromise on quality. Our hallmark is delivering on our promises.
+    description: `At OutlineEdge, we’re the champions of charting our course. We are a unique development company seamlessly merging creativity with feasibility. While we offer competitively priced development projects, we never compromise on quality. Our hallmark is delivering on our promises.
 
 As a top-tier software development company, we understand that our work doesn't end with project delivery. Our mission is to create success stories by adding substantial value to brands and helping them shine brightly in the tech sphere.
 
@@ -435,22 +435,22 @@ Our purpose is to fuel your company's exemplary growth through our strategic and
       title: "Chief Product & Technology Officer ",
       name: "Tanvir Ahmed",
       description:
-        "At XFOSOFT, we lead the charge in fostering innovation across software development, recruitment, and consultancy. Our utmost dedication to excellence serves as the driving force behind technological advancement and our ability to seamlessly connect you with top-tier talent. We stand as your trusted partner in the ever-evolving tech and staffing landscape, wholeheartedly committed to propelling your success to greater heights. With a proven track record of innovation and a relentless pursuit of creative bounds, we are here to guide you on your journey towards progress.",
-      image: images.visionary3,
+        "At OutlineEdge, we lead the charge in fostering innovation across software development, recruitment, and consultancy. Our utmost dedication to excellence serves as the driving force behind technological advancement and our ability to seamlessly connect you with top-tier talent. We stand as your trusted partner in the ever-evolving tech and staffing landscape, wholeheartedly committed to propelling your success to greater heights. With a proven track record of innovation and a relentless pursuit of creative bounds, we are here to guide you on your journey towards progress.",
+      //image: images.visionary3,
     },
     {
       title: "Chief Operating Officer",
-      name: "Tarique Hassan",
+      name: "Sabrina Rowshon",
       description:
         "As the Chief Operating Officer, I am your trusted collaborator in achieving success. With a powerful fusion of software prowess, talent solutions, and expert consultancy, we pave the way for your company's boundless growth and prosperity. Our mission is to understand your unique needs, envision innovative solutions, and create value that sets you on top of the map. Together, let’s embark on a journey to unlock your company's full potential and reach new heights of achievement.",
-      image: images.visionary2,
+      //image: images.visionary2,
     },
     {
       title: "Chief Revenue & Financial Officer",
-      name: "Mohammad Ullah",
+      name: "Tahmina Jahan",
       description:
         "As Chief Revenue and Financial Officer, my goal is to not just meet but exceed your financial objectives. We've harnessed the power of software excellence, strategic talent acquisition, and expert consultancy to consistently propel us toward remarkable milestones. This is a testament to our commitment to your success and our proven track record in delivering tangible financial results that work best for your business.",
-      image: images.visionary1,
+      //image: images.visionary1,
     },
   ],
 
@@ -458,7 +458,7 @@ Our purpose is to fuel your company's exemplary growth through our strategic and
     image: images.about,
     title: ["KNOW", "US"],
     description1:
-      "Xfosoft IT Solutions Inc. is a maestro in website design, development, and comprehensive IT solutions serving the USA and clients worldwide. Our unwavering dedication to excellence propels businesses to success through top-tier IT services.",
+      "OutlineEdge is a maestro in website design, development, and comprehensive IT solutions serving the USA and clients worldwide. Our unwavering dedication to excellence propels businesses to success through top-tier IT services.",
 
     description2:
       "Since our inception in 2014 in New York, our team of 50+ skilled professionals have been crafting robust web presences. Our strength lies in designing visually captivating, expert solutions tailored to your business needs. We collaborate with local and global clients, offering strategically sound design expertise across diverse domains.",
@@ -467,7 +467,7 @@ Our purpose is to fuel your company's exemplary growth through our strategic and
   serviceHeader: {
     image: images.service,
     description1:
-      "At Xfosoft, Digital IT Solutions meet cutting-edge technology to transform your business. We develop top of the line applications and solutions that meet market needs, empower brands, and encourage growth.",
+      "At OutlineEdge, Digital IT Solutions meet cutting-edge technology to transform your business. We develop top of the line applications and solutions that meet market needs, empower brands, and encourage growth.",
 
     description2:
       "With our diverse team of experts, we strive to deliver world-class solutions tailored to fit your requirements. Get in touch with us to find out how we can help your business achieve newer heights.",
@@ -483,11 +483,11 @@ Our purpose is to fuel your company's exemplary growth through our strategic and
     title: ["CONTACT", "US"],
   },
   contactInfo: {
-    phone1: "(212) 884-8837",
-    phone2: "+8801618871514",
-    email1: "connect@Xfosoft.com",
-    email2: "HR@xfosoft.com",
-    address: "26 Broadway, Suite 934, New York, New York 10004, United States",
+    phone1: "(201) 665-9364",
+    phone2: "+8801611110001",
+    email1: "connect@outlineedge.com",
+    email2: "hr@outlineedge.com",
+    address: "139 Church St, Unit 1, Lodi, NJ 07644, United States",
   },
   contactForm: {
     services: [
@@ -993,11 +993,11 @@ Our purpose is to fuel your company's exemplary growth through our strategic and
   careerHeader: {
     image: images.careerBanner,
     description1:
-      "Here at Xfosoft, we believe in finding the right talents and providing them the best working environment and organizational culture. We cultivate a collective goal to bring the best in everyone through continuous support and motivation. We value creativity and consistent efforts which make our work force dynamic and ready for the future.",
+      "Here at OutlineEdge, we believe in finding the right talents and providing them the best working environment and organizational culture. We cultivate a collective goal to bring the best in everyone through continuous support and motivation. We value creativity and consistent efforts which make our work force dynamic and ready for the future.",
 
     description2:
-      "People at Xfosoft harness the essence of teamwork and good leadership. We provide comprehensive training to our workforce to develop and empower their journey at Xfosoft. We closely monitor and maintain a place where talents can be nurtured in the best way. So, Join Us and be the changemaker in the ever-evolving tech landscape!",
-    title: ["LIFE AT", "XFOSOFT"],
+      "People at OutlineEdge harness the essence of teamwork and good leadership. We provide comprehensive training to our workforce to develop and empower their journey at OutlineEdge. We closely monitor and maintain a place where talents can be nurtured in the best way. So, Join Us and be the changemaker in the ever-evolving tech landscape!",
+    title: ["LIFE AT", "OutlineEdge"],
   },
 
   careerPosts: {
@@ -1236,10 +1236,10 @@ Our purpose is to fuel your company's exemplary growth through our strategic and
   policyHeader: {
     image: images.policyConditionHeader,
     description1:
-      "Here at Xfosoft, we believe in finding the right talents and providing them the best working environment and organizational culture. We cultivate a collective goal to bring the best in everyone through continuous support and motivation. We value creativity and consistent efforts which make our work force dynamic and ready for the future.",
+      "Here at OutlineEdge, we believe in finding the right talents and providing them the best working environment and organizational culture. We cultivate a collective goal to bring the best in everyone through continuous support and motivation. We value creativity and consistent efforts which make our work force dynamic and ready for the future.",
 
     description2:
-      "People at Xfosoft harness the essence of teamwork and good leadership. We provide comprehensive training to our workforce to develop and empower their journey at Xfosoft. We closely monitor and maintain a place where talents can be nurtured in the best way. So, Join Us and be the changemaker in the ever-evolving tech landscape!",
+      "People at OutlineEdge harness the essence of teamwork and good leadership. We provide comprehensive training to our workforce to develop and empower their journey at OutlineEdge. We closely monitor and maintain a place where talents can be nurtured in the best way. So, Join Us and be the changemaker in the ever-evolving tech landscape!",
     title: ["LEGAL", "CONDITION"],
   },
 
@@ -1291,7 +1291,7 @@ Our purpose is to fuel your company's exemplary growth through our strategic and
       question:
         "If I want to be involved in the development process, is it okay?",
       answer:
-        "Absolutely yes. Xfosoft is incepted based on Agile principles. With this Agile software development iterative approach, the 'client – product owner' is always involved in the software development process. The development process is not one-size-fits for all. With that consideration, from the ideation to deployment on each stage and on a daily basis, you will have an update from the team about project progress through Sprint. We let you have one to one interaction with the developer. Our daily scrum includes adaptive planning, continuous improvement, implementation, and rapid response to the changes.",
+        "Absolutely yes. OutlineEdge is incepted based on Agile principles. With this Agile software development iterative approach, the 'client – product owner' is always involved in the software development process. The development process is not one-size-fits for all. With that consideration, from the ideation to deployment on each stage and on a daily basis, you will have an update from the team about project progress through Sprint. We let you have one to one interaction with the developer. Our daily scrum includes adaptive planning, continuous improvement, implementation, and rapid response to the changes.",
     },
     {
       question:

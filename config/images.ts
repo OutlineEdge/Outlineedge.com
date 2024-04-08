@@ -60,9 +60,9 @@ const images = {
 
   user1: "/assets/images/about/visionary/user.png",
 
-  visionary1: "/assets/images/about/visionary/user (1).jpeg",
-  visionary2: "/assets/images/about/visionary/user (2).jpeg",
-  visionary3: "/assets/images/about/visionary/user (3).jpeg",
+  //visionary1: "/assets/images/about/visionary/user (1).jpeg",
+  //visionary2: "/assets/images/about/visionary/user (2).jpeg",
+  //visionary3: "/assets/images/about/visionary/user (3).jpeg",
 
   service: "/assets/images/services/serviceHeader.jpg",
 
